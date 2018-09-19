@@ -1,0 +1,9 @@
+1	Nancy Sinatra	https://www.youtube.com/watch?v=SbyAZQ45uww
+2	Jet	https://www.youtube.com/watch?v=tuK6n2Lkza0
+3	Culture Club	https://www.youtube.com/watch?v=JmcA9LIIXWw
+5	Bloodhound Gang	https://www.youtube.com/watch?v=xat1GVnl8-k
+4	Eminem	https://www.youtube.com/watch?v=YVkUvmDQ3HY
+7	Kiss	https://www.youtube.com/watch?v=CmELf8DJAVY
+6	Billy Idol	https://www.youtube.com/watch?v=x9j6DE6RnSk
+8	The Fratellis	https://www.youtube.com/watch?v=sEXHeTcxQy4
+9	Green day	https://www.youtube.com/watch?v=Soa3gO7tL-c

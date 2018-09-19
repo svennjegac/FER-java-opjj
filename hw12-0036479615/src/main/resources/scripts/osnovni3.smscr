@@ -1,0 +1,3 @@
+{$= "text/" @setMimeType$}
+This is sample text.
+{$= 2 @dup 1 + $}

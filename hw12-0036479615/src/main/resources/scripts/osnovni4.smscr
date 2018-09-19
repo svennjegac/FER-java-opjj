@@ -1,0 +1,3 @@
+{$= "text/" @setMimeType$}
+This is sample text.
+{$= "0.0" @dup 2 @swap @decfmt $}

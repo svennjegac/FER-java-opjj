@@ -1,0 +1,29 @@
+{$= "text/" @setMimeType$}
+Param test(5.56 nema zbroja)
+{$= "broj" "nema broja" @paramGet "zbroj" "nema zbroja" @paramGet $}
+
+Pers param test(defpp4.44.4nono)
+{$=
+"4.4" "ppbroj" @pparamSet
+"aaa" "defpp" @pparamGet
+"ppbroj" "defv" @pparamGet
+"aa" @pparamDel
+"ppbroj" "no" @pparamGet
+"ppbroj" @pparamDel
+"ppbroj" "no" @pparamGet
+"ppbroj" @pparamDel
+"ppbroj" "no" @pparamGet
+$}
+
+Temp param test(defpp4.44.4nono)
+{$=
+"4.4" "ppbroj" @tparamSet
+"aaa" "defpp" @tparamGet
+"ppbroj" "defv" @tparamGet
+"aa" @tparamDel
+"ppbroj" "no" @tparamGet
+"ppbroj" @tparamDel
+"ppbroj" "no" @tparamGet
+"ppbroj" @tparamDel
+"ppbroj" "no" @tparamGet
+$}
