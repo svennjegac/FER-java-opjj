@@ -1,5 +1,5 @@
 # FER-java-opjj
-Homeworks from Introduction to Java Programming Language by M. Čupić
+Homeworks from Introduction to Java Programming Language by M. Čupić.
 
 Most interesting projects:
 1. hw07 - Quine McCluskey algorithm for minimization of Boolean functions
